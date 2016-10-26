@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="x-mac-roman"?>
+<object name="EXPORT" class="MOND" type="GHDW" signature="" model_name="">
+
+<object name="ZoneAExporter" class="PLOB" type="GHST" signature="" model_name="">
+<object name="ZoneAExporter" class="OBJV" type="SURF">
+<multi_polygone>
+<polygone>
+<point><x>654000.000000</x><y>6864000.000000</y><z>0.000000</z></point>
+<point><x>653500.000000</x><y>6864000.000000</y><z>0.000000</z></point>
+<point><x>653500.000000</x><y>6864500.000000</y><z>0.000000</z></point>
+<point><x>654000.000000</x><y>6864500.000000</y><z>0.000000</z></point>
+<point><x>654000.000000</x><y>6864000.000000</y><z>0.000000</z></point>
+</polygone>
+</multi_polygone>
+</object>
+</object>
+</object>
